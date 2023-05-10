@@ -15,7 +15,12 @@ import java.math.BigInteger;
 public class RequestEvent
 {
     private String userId;
+
     private EventCode eventCode;
+
     private BigInteger budget;
+
     private String memo;
+
+    private String category;
 }

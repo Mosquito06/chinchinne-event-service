@@ -8,7 +8,8 @@ import lombok.Getter;
 public enum EventCode implements CodeValue
 {
      MEM0("M", "메모")
-    ,BUDGET("B", "예산");
+    ,BUDGET("B", "예산")
+    ,CATEGORY("C", "카테고리");
 
     private String code;
 
