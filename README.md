@@ -19,6 +19,7 @@
 
 2. 구현 화면
 <img src="https://github.com/Mosquito06/chinchinne-event-service/assets/32257949/c1036ad5-5bfa-404a-8f48-e1933fd9bb70"  width="750" height="370">
+<img src="https://github.com/Mosquito06/chinchinne-event-service/assets/32257949/5ee5286a-ce09-41e3-a810-cc0be1fe846a"  width="750" height="370">
 
 3. 기술 스택 및 설명
 <div align="left">
